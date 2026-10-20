@@ -1,2 +1,3 @@
-# zcdd-deploy-test-25963
-Temporary deployment artifact created by Zero-Click Deploy Doctor
+# Test App
+
+Minimal Flask app for testing Zero-Click Deploy Doctor.
